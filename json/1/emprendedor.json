@@ -1,0 +1,11 @@
+{
+  "id": 1,
+  "nombre": "Nicolás Rojas",
+  "genero": "Masculino",
+  "emprendimientos": [
+    "Dapta",
+    "Imagine Apps"
+  ],
+  "pregrado": "Ingeniería Industrial",
+  "foto_url": "https://github.com/k-garces/ISIS2603_202520_S4_P2_Practica/blob/main/img/rojas.jpg?raw=true"
+}

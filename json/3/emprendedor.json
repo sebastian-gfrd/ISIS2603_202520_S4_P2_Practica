@@ -1,0 +1,10 @@
+{
+  "id": 3,
+  "nombre": "Sebastián Correa",
+  "genero": "Masculino",
+  "emprendimientos": [
+    "Infinity"
+  ],
+  "pregrado": "Ingeniería Civil",
+  "foto_url": "https://github.com/k-garces/ISIS2603_202520_S4_P2_Practica/blob/main/img/correa.jpg?raw=true"
+}

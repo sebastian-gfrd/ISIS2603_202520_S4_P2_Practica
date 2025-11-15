@@ -1,55 +1,37 @@
-{
-  "emprendedores_menos_30": [
+[
     {
       "id": 1,
       "nombre": "Nicolás Rojas",
       "genero": "Masculino",
-      "emprendimientos": [
-        "Dapta",
-        "Imagine Apps"
-      ],
       "pregrado": "Ingeniería Industrial",
-      "foto_url": ""
+      "foto_url": "https://github.com/k-garces/ISIS2603_202520_S4_P2_Practica/blob/main/img/rojas.jpg?raw=true"
     },
     {
       "id": 2,
       "nombre": "Juan Pablo Urrea",
       "genero": "Masculino",
-      "emprendimientos": [
-        "Rentandes"
-      ],
       "pregrado": "Ingeniería Industrial y Administración",
-      "foto_url": ""
+      "foto_url": "https://github.com/k-garces/ISIS2603_202520_S4_P2_Practica/blob/main/img/urrea.jpg?raw=true"
     },
     {
       "id": 3,
       "nombre": "Sebastián Correa",
       "genero": "Masculino",
-      "emprendimientos": [
-        "Infinity"
-      ],
       "pregrado": "Ingeniería Civil",
-      "foto_url": ""
+      "foto_url": "https://github.com/k-garces/ISIS2603_202520_S4_P2_Practica/blob/main/img/correa.jpg?raw=true"
     },
     {
       "id": 4,
       "nombre": "Martín Peláez",
       "genero": "Masculino",
-      "emprendimientos": [
-        "Infinity"
-      ],
       "pregrado": "Ingeniería Mecánica",
-      "foto_url": ""
+      "foto_url": "https://github.com/k-garces/ISIS2603_202520_S4_P2_Practica/blob/main/img/pelaez.jpg?raw=true"
     },
     {
       "id": 5,
       "nombre": "Santiago Cala",
       "genero": "Masculino",
-      "emprendimientos": [
-        "Alfred"
-      ],
       "pregrado": "Ingeniería Industrial y de Sistemas",
-      "foto_url": ""
+      "foto_url": "https://github.com/k-garces/ISIS2603_202520_S4_P2_Practica/blob/main/img/cala.jpg?raw=true"
     }
-  ]
-}
+]

@@ -1,0 +1,10 @@
+{
+  "id": 2,
+  "nombre": "Juan Pablo Urrea",
+  "genero": "Masculino",
+  "emprendimientos": [
+    "Rentandes"
+  ],
+  "pregrado": "Ingeniería Industrial y Administración",
+  "foto_url": "https://github.com/k-garces/ISIS2603_202520_S4_P2_Practica/blob/main/img/urrea.jpg?raw=true"
+}

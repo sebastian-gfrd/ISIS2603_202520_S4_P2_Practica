@@ -1,0 +1,10 @@
+{
+  "id": 5,
+  "nombre": "Santiago Cala",
+  "genero": "Masculino",
+  "emprendimientos": [
+    "Alfred"
+  ],
+  "pregrado": "Ingeniería Industrial y de Sistemas",
+  "foto_url": "https://github.com/k-garces/ISIS2603_202520_S4_P2_Practica/blob/main/img/cala.jpg?raw=true"
+}
